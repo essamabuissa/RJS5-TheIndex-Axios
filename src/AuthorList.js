@@ -6,6 +6,7 @@ import SearchBar from "./SearchBar";
 
 class AuthorList extends Component {
   state = {
+
     filteredAuthors: this.props.authors
   };
 
